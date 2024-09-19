@@ -7,5 +7,5 @@
 - Save downloaded images to local file system.
 
 <div style="text-align: center;">
-<img src="https://github.com/user-attachments/assets/45b07feb-e54f-479f-b104-b5520ec4b0a8" alt="Web Scraping" width="300"/>
+<img src="https://github.com/user-attachments/assets/45b07feb-e54f-479f-b104-b5520ec4b0a8" alt="Web Scraping" width="500"/>
 </div>
